@@ -26,3 +26,8 @@ Forum : https://forum.cfx.re/t/qb-esx-hh-aid-doctor-ai-doctor-release-free/47684
 
 Preview : https://www.youtube.com/watch?v=HdY6m8EZGDQ
 
+
+This is a fork of HH AI Doc by Possible which rewrites the help command as an event to be triggered in a Death Screen.
+
+For assistance feel free to join my discord - https://discord.gg/Gnb2S7uAdG
+
